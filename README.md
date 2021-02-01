@@ -1,7 +1,6 @@
 # VideoConference-ExpertJS
 
-### Technologies
-It is used:
+### Technologies used:
 - Essentialy JavaScript, HTML and CSS
 - Socket.IO
 
@@ -10,6 +9,18 @@ It is used:
 - PeerJS
 
   This library helps to manage connection between Peers clients
+---
+
+## Runnig the project
+Open project's folder on terminal and install each folder's dependencies with ```npm i``` and:
+
+./public => ```npm start```
+
+./peer-server => ```npm run dev```
+
+./server => ```npm run dev```
+
+----
 
 ### Credits
 
