@@ -1,7 +1,7 @@
 # VideoConference-ExpertJS
 
 ### Technologies
-It uses:
+It is used:
 - Essentialy JavaScript, HTML and CSS
 - Socket.IO
 
